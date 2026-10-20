@@ -92,6 +92,10 @@ def main():
             classes_skiped = int(input("How many classes did you skip? "))
             worth_it(classes_skiped, annual_cost, credits)
             print(f"Skipping {classes_skiped} classes cost you ${worth_it(classes_skiped, annual_cost, credits):.2f}.")
+            if classes_skiped > 3:
+                print("Not worth it.")
+            else:
+                print("Its fine.")
 
         # Add a branch for each menu option here.
 
