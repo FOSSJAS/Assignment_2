@@ -4,11 +4,11 @@ Points : 40 / 40  (from check.py; counts only when the Git and GitHub checks pas
 CS 1430 Assignment 2: The Cost of College
 GitHub user : FOSSJAS
 Repository  : https://github.com/FOSSJAS/Assignment_2
-Commit      : 714923d6755c0e3a80534eb2232fd02577fec1bb
-Message     : wrote code
+Commit      : 610f106809eca98429047bd9fe85f2581f816373
+Message     : tweaked option 6 a little, still good
 Author      : Jason Foss <fossjas@uwplatt.edu>
-Committed   : 2026-10-20T17:06:55-05:00
-Checked     : 2026-10-20 17:14:18 Central Daylight Time
+Committed   : 2026-10-20T17:23:00-05:00
+Checked     : 2026-10-20 17:24:33 Central Daylight Time
 Python      : 3.14.7
 
 ================================================================
